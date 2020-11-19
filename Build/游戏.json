@@ -1,0 +1,17 @@
+{
+"companyName": "GDUT",
+"productName": "BOUNCING BALL",
+"productVersion": "0.1",
+"dataUrl": "游戏.data.unityweb",
+"wasmCodeUrl": "游戏.wasm.code.unityweb",
+"wasmFrameworkUrl": "游戏.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "游戏.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.0f1"
+}
